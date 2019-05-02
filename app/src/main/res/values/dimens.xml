@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="start_text_after_image">20dp</dimen>
+    <dimen name="city_size_text">28sp</dimen>
+    <dimen name="padding">15dp</dimen>
+    <dimen name="dp">1dp</dimen>
+    <dimen name="image_height">100dp</dimen>
+    <dimen name="nav_header_height">150dp</dimen>
+    <dimen name="size_edit_text_feedback">100dp</dimen>
+</resources>

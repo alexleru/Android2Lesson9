@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="getTemperature">
+        <item>30 °С</item>
+        <item>11 °С</item>
+        <item>16 °С</item>
+    </string-array>
+    <string-array name="getWind">
+        <item>3 m/s</item>
+        <item>17 m/s</item>
+        <item>2 m/s</item>
+    </string-array>
+    <string-array name="getWindDirection">
+        <item>Northwest</item>
+        <item>South</item>
+        <item>Eastern</item>
+    </string-array>
+    <string-array name="getHumidity">
+        <item>51%</item>
+        <item>70%</item>
+        <item>61%</item>
+    </string-array>
+    <string-array name="getPressure">
+        <item>750 mmHg</item>
+        <item>748 mmHg</item>
+        <item>755 mmHg</item>
+    </string-array>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="label">Погода</string>
+    <string name="loading_data">Данные загружаются</string>
+    <string name="btn_search">Найти</string>
+    <string name="show_wind">Показать данные о ветре</string>
+    <string name="show_humidity">Показать данные о влажности</string>
+    <string name="show_pressure">Показать данные о давлении</string>
+    <string name="city_name">Город</string>
+    <string name="about_app">О программе Погода</string>
+    <string name="author">Автор: Алексей</string>
+    <string name="attention_city_name">Вы не ввели город!</string>
+    <string name="saint_petersburg">Санкт-Петербург</string>
+    <string name="moscow">Москва</string>
+    <string name="nav_header_subtitle">Меню</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="leave_your_feedback_here">Оставьте обратную связь здесь!</string>
+    <string name="send_feedback">отправить отзыв</string>
+    <string name="touch_the_picture_below">Нажми на картинку ниже</string>
+    <string name="north">Север</string>
+    <string name="northeast">Северо-Запад</string>
+    <string name="east">Восток</string>
+    <string name="southeast">Юго-Восток</string>
+    <string name="south">Юг</string>
+    <string name="southwest">Юго-Запад</string>
+    <string name="west">Запад</string>
+    <string name="northwest">Северо-Запад</string>
+    <string name="none_data">нет данных</string>
+    <string name="metr_per_sec">м/с</string>
+    <string name="mmhg">мм.рт.ст.</string>
+    <string name="error">error</string>
+    <string name="weather_by_coordinates">Погода по координатам</string>
+</resources>
